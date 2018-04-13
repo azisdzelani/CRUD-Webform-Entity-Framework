@@ -75,8 +75,6 @@
 
                     <asp:Button ID="btnCancel" runat="server" Text="Cancel" OnClick="btnCancel_Click" />
 
-                    <asp:Button ID="Button1" runat="server" Text="Cancel" OnClick="btnCancel_Click" />
-
                 </td>
 
             </tr>
