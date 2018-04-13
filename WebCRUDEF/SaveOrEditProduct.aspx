@@ -7,19 +7,7 @@
     <title>Save & Edit Product</title>
 
     <style type="text/css">
-
-        .auto-style1 {
-
-            width: 100%;
-
-        }
-
-        .auto-style2 {
-
-            width: 68px;
-
-        }
-
+        
     </style>
 
 </head>
